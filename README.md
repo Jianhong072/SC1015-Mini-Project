@@ -22,9 +22,11 @@ Explore, visualized and our insights on the EDA
 
 ## 2. Regression Models 
 - Discussion of the Advantages and disavantages of the different regression models
-- Ridge Regression 
-- Lasso Regression 
-- Elastic Net Regression Model (BEST) 
+- Ridge Regression : Is a linear regression model that adds a penalty to the sum of squared coefficients, which shrinks the values of the coefficients towards zero. This helps to reduce the impact of less important features in the model and can improve its overall performance.
+
+- Lasso Regression : Similar to ridge regression, it also adds a penalty to the sum of squared coefficients, but it uses the absolute value of the coefficients instead. This can result in some coefficients being exactly zero, effectively removing those features from the model.
+
+- Elastic Net Regression Model (BEST) : This is a combination of ridge and lasso regression, where both penalties are applied to the sum of squared coefficients. It can be useful when dealing with datasets that have a large number of features, as it can handle situations where there are multiple correlated features by selecting one or a group of features among them.
 
 Metrics Used to conlude the Regression Models
 - Mean Squared Error
