@@ -41,3 +41,13 @@ Metrics Used to conlude the Regression Models
 We can reliably predict whether an anime is worth watching mainly from the popularity, and score, which in turn can be predicted with genres (most animes that are popular belong the comedy, action and adventure genres), as well as favourites, and episode duration.
 
 We learnt about the different models for regression, as well as one more model for classification. 
+
+# What we learnt from SC1015 Project
+## Data Collection : 
+- 
+## Cleaning Our DataSet: 
+- 
+## EDA & Visualisation: 
+- 
+## Machine Learning: 
+- 
