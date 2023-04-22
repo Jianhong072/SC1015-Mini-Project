@@ -50,10 +50,13 @@ We learnt about the different models for regression, as well as one more model f
 - Changing string data to integers
 - One Hot enocding object types
 ## EDA & Visualisation: 
-- 
+- Explored how the different variables were able to affect the Rank and popularity of the anime. 
+- See the trend of the anime produced over the years. Genres and Maturity Rating.
+- Discovered some very well performing Studios that went under the radar. 
 ## Machine Learning: 
-- Regression Models ( Lasso Regresson, Ridge Regression, Elastic Net Regression) 
-- Using Cross Validation to enchance our regression models.
--
+- Regression Models ( Lasso Regresson, Ridge Regression, Elastic Net Regression). 
+- Advantages and disavantages of the different models.
+- Visualisation of the models.
+- Using Cross Validation to enchance our regression models.  
 ## Classification Models:
 - Random forest model, multiple uncorrelated decision trees amassed into one model. Each prediction tree predicts a class, which acts like a vote. The class with the most votes becomes the overall prediction.
