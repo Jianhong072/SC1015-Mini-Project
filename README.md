@@ -20,7 +20,7 @@ Explore, visualized and our insights on the EDA
 - Studios
 - Members
 
-## Regression Models 
+## 2. Regression Models 
 - Ridge Regression 
 - Lasso Regression 
 - Elastic Net Regression Model (BEST) 
