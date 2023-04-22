@@ -21,9 +21,15 @@ Explore, visualized and our insights on the EDA
 - Members
 
 ## 2. Regression Models 
+- Discussion of the Advantages and disavantages of the different regression models
 - Ridge Regression 
 - Lasso Regression 
 - Elastic Net Regression Model (BEST) 
+
+Metrics Used to conlude the Regression Models
+- Mean Squared Error
+- R2 Value 
+- Cross Validiaton Score on the model
 
 ## 3. Classification Models
 - Decision Tree Classifier (Best)
