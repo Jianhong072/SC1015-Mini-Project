@@ -54,3 +54,6 @@ We learnt about the different models for regression, as well as one more model f
 ## Machine Learning: 
 - Regression Models ( Lasso Regresson, Ridge Regression, Elastic Net Regression) 
 - Using Cross Validation to enchance our regression models.
+-
+## Classification Models:
+- Random forest model, multiple uncorrelated decision trees amassed into one model. Each prediction tree predicts a class, which acts like a vote. The class with the most votes becomes the overall prediction.
