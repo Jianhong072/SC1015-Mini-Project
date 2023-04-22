@@ -24,3 +24,10 @@ Explore, visualized and our insights on the EDA
 - Ridge Regression 
 - Lasso Regression 
 - Elastic Net Regression Model (BEST) 
+
+## 3. Classification Models
+- Decision Tree Classifier (Best)
+- Random Forest Classifier
+
+## Findings/conclusion
+We can reliably predict whether an anime is worth watching mainly from the popularity, and score, which in turn can be predicted with genres (most animes that are popular belong the comedy, action and adventure genres), as well as favourites, and episode duration. 
