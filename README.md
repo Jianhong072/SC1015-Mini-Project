@@ -44,10 +44,13 @@ We learnt about the different models for regression, as well as one more model f
 
 # What we learnt from SC1015 Project
 ## Data Collection : 
-- 
+- Learn how to be more selective of the dataset that we choose to work with
 ## Cleaning Our DataSet: 
-- 
+- Elimination of unecessary data
+- Changing string data to integers
+- One Hot enocding object types
 ## EDA & Visualisation: 
 - 
 ## Machine Learning: 
-- 
+- Regression Models ( Lasso Regresson, Ridge Regression, Elastic Net Regression) 
+- Using Cross Validation to enchance our regression models.
